@@ -1,6 +1,5 @@
-
 {
   "app": "CloudyGiveaways",
-  "version": "1.0.31",
-  "summary": "Giveaway improvements, customization fixes, automatic saving, and update notifications."
+  "version": "1.0.32",
+  "summary": "New giveaway controls, custom entry confirmations, random draw animations, multiple giveaway rounds, and improved OBS overlay fading."
 }
